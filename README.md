@@ -2,6 +2,7 @@
 
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtnalonso&show_icons=true&hide_title=true" alt="github stats for mtnalonso">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtnalonso&layout=compact" alt="language stats for mtnalonso">
 </p>
 
